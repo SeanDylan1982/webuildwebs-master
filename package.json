@@ -9,6 +9,7 @@
     "@mui/icons-material": "^5.11.11",
     "@mui/material": "^5.11.13",
     "base-shell": "^2.5.10",
+    "firebase": "^9.18.0",
     "intl": "^1.2.5",
     "jss-rtl": "^0.3.0",
     "lp-react-virtualized-auto-sizer-react-18": "^1.0.7",
